@@ -1,4 +1,4 @@
-[Gitee](https://gitee.com/haujet/blink-prompt.git)　|　Github 
+[Gitee](https://gitee.com/haujet/blink-prompt.git)　|　[Github](https://github.com/HaujetZhao/blink-prompt) 
 
 # 眨眼提示
 
@@ -45,7 +45,7 @@ python __main__.py
 
 如果你愿意，可以以打赏的方式为我充电：
 
-![sponsor](assets/sponsor.png)
+![sponsor](assets/sponsor.jpg)
 
 ## 😀 交流
 
